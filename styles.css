@@ -1,0 +1,119 @@
+h1{
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625em;
+  color: #ff7b54;
+}
+
+h3{
+  color : #ff7b54;
+}
+
+a{
+  color : #ff7b54;
+}
+
+hr{
+  margin: 0 0;
+}
+
+p{
+  margin: 0 0 0 0;
+}
+
+h2{
+  margin: 0 0 0 0;
+}
+
+body{
+  margin: 0;
+  font-family: 'Merriweather', serif;
+}
+
+h5{
+  margin: 0;
+}
+
+hr{
+  border-top: dotted 8px;
+  width: 10%;
+  margin: 0 auto;
+  color: #ff7b54;
+}
+
+.description {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  margin: 0 auto;
+  color: #ff7b54;
+}
+
+.topContainer{
+  text-align: center;
+  background-color: #ffb26b;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middleContainer{
+  text-align: center;
+}
+
+.bottom-container{
+  text-align: center;
+  padding: 50px;
+  background-color: #ffda77;
+}
+
+.pro{
+  text-decoration: underline;
+}
+
+.topCloud{
+  position: absolute;
+  right: 300px;
+  top : 50px;
+}
+
+.bottomCloud{
+  position: absolute;
+  left: 300px;
+}
+
+.skill-row{
+  width: 50%;
+  margin: 80px auto 80px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.computer-img{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.chilli-img{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.skills-div{
+    background-color: #ffffff;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+
+.my_description{
+  width: 50%;
+  margin: 50px auto;
+}
+
+.profile{
+  padding-top: 50px;
+}
+
+.profile-image{
+  border-radius: 60%;
+}
